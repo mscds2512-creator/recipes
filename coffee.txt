@@ -1,7 +1,7 @@
 Coffee Recipe
 
 Ingredients:
-- 1 cup milk
+- 1 cup milk MILK
 - 1 teaspoon coffee powder
 - 1 teaspoon sugar
 - 1/4 cup water
