@@ -1,0 +1,15 @@
+Coffee Recipe
+
+Ingredients:
+- 1 cup milk
+- 1 teaspoon coffee powder
+- 1 teaspoon sugar
+- 1/4 cup water
+
+Steps:
+1. Boil the water.
+2. Add coffee powder and stir well.
+3. Add sugar and mix.
+4. Pour in the milk and bring it to a boil.
+5. Pour the coffee into a cup.
+6. Serve hot.
